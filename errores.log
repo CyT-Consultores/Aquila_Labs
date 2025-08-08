@@ -1,0 +1,501 @@
+Factura DIAC-75422 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75466, UUID 241d63ac-24e6-4feb-b808-2365d76e7f92 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75469 -> read ECONNRESET
+Factura DIAC-75538 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75544 -> read ECONNRESET
+Factura DIAC-75566 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75568, UUID 70c22a04-17b6-4c41-bf28-2cefe1b6672e -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75581, UUID 34d15031-5472-445c-8044-ed28d5d1435a -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75589 -> read ECONNRESET
+Factura DIAC-75598, UUID 7a48cedc-7c22-4ce0-a860-e54c988775ab -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75698, UUID 33e49cdb-d4e1-4a78-8fb4-5c8e1de1d8dc -> read ECONNRESET
+Factura DIAC-75705 -> read ECONNRESET
+Factura DIAC-75383 -> read ECONNRESET
+Factura DIAC-75399, UUID ea444dac-580f-4d32-9286-cfc800aad8d1 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75388, UUID 74309c9a-c486-4652-bb7e-63f607b9691a -> read ECONNRESET
+Factura DIAC-75473 -> read ECONNRESET
+Factura DIAC-75393, UUID 836775a3-f3df-49e3-9e08-e7aae3e4f616 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75396, UUID dcbe549a-da83-44d6-bf99-c800f5599850 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75403, UUID 025065f4-6249-462c-8452-06d8254b13a1 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75457 -> read ECONNRESET
+Factura DIAC-75471, UUID 24f71f0e-d8f7-43f6-8d13-5ce74b717633 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75475 -> read ECONNRESET
+Factura DIAC-75476, UUID ff0028fb-869e-46b4-be89-e62f2a5d3077 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75477 -> read ECONNRESET
+Factura DIAC-75414, UUID b6ea7ccb-edd4-401f-8fdc-2d4960c0e8a8 -> read ECONNRESET
+Factura DIAC-75478, UUID 004a899d-a72e-4fab-b426-fd7efe9c3b3b -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75414, UUID 5d2a4486-b63d-4a76-aed4-0110373e2f0a -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75417 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75478, UUID 11f70fcf-3cd8-4d7a-a788-4f36230593ce -> read ECONNRESET
+Factura DIAC-75421, UUID cdd9ebb4-9656-4292-b6c9-3a6ffe0255d5 -> read ECONNRESET
+Factura DIAC-75482, UUID e2e7ab6c-50b3-4864-8de4-fdf3bfd3bc20 -> read ECONNRESET
+Factura DIAC-75463 -> read ECONNRESET
+Factura DIAC-75464, UUID a5759001-9fb0-493e-8cf9-4d20a5a4355f -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75487, UUID cb462956-3a45-4c03-ab34-20cf5410e971 -> read ECONNRESET
+Factura DIAC-75466, UUID 241d63ac-24e6-4feb-b808-2365d76e7f92 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75467, UUID f4aee19c-3015-4360-92a5-621d91b110c9 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75467, UUID f1edc111-6cca-4265-bff3-49aa3c6aa65c -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75685 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75468 -> read ECONNRESET
+Factura DIAC-75691, UUID 752706ac-7eb6-4424-bc3d-215eadaf450a -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> Request failed with status code 500
+Factura DIAC-75469, UUID 1841ed62-0096-4a30-8a99-20f894c01429 -> read ECONNRESET
+Factura DIAC-75502 -> read ECONNRESET
+Factura DIAC-75539 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75542 -> read ECONNRESET
+Factura DIAC-75555, UUID c4957ea6-bb0a-4403-8095-3e4781153840 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75562 -> read ECONNRESET
+Factura DIAC-75564 -> read ECONNRESET
+Factura DIAC-75589, UUID a710a28c-4a9a-4030-a9e9-458647e7fb04 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75589, UUID b248864c-d56d-4c01-b212-e1576c63b75a -> read ECONNRESET
+Factura DIAC-75590 -> read ECONNRESET
+Factura DIAC-75698, UUID 33e49cdb-d4e1-4a78-8fb4-5c8e1de1d8dc -> read ECONNRESET
+Factura DIAC-75705 -> read ECONNRESET
+Factura DIAC-75393, UUID 836775a3-f3df-49e3-9e08-e7aae3e4f616 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75395 -> read ECONNRESET
+Factura DIAC-75396 -> read ECONNRESET
+Factura DIAC-75403, UUID 740db0e4-9454-4e22-b4a4-f61c09479491 -> read ECONNRESET
+Factura DIAC-75457, UUID aea85c64-5bd3-4aa7-b770-eee272f13da1 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75459, UUID 7a022975-451c-48fb-8edc-b4aeb791ef9b -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75460, UUID 491553ed-228a-4cd7-8545-27e41680b492 -> read ECONNRESET
+Factura DIAC-75460, UUID 0fa610d9-2107-4940-bc0e-cb04cbc051df -> read ECONNRESET
+Factura DIAC-75461, UUID c325cd11-74df-404d-a976-e1e2df5d7615 -> read ECONNRESET
+Factura DIAC-75476, UUID ff0028fb-869e-46b4-be89-e62f2a5d3077 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75482, UUID 21aa939a-a6ad-4972-903b-6e281b0df42e -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75421 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75410, UUID 218d420a-e7ba-4dff-9097-20f2595d8310 -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\218d420a-e7ba-4dff-9097-20f2595d8310.pdf'
+Factura DIAC-75410, UUID 538ab1f5-af3a-4cd8-95ad-8ddffe8dfe96 -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\538ab1f5-af3a-4cd8-95ad-8ddffe8dfe96.pdf'
+Factura DIAC-75412, UUID 223acc39-30f7-4206-9c24-82c49e657c00 -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\223acc39-30f7-4206-9c24-82c49e657c00.pdf'
+Factura DIAC-75434 -> read ECONNRESET
+Factura DIAC-75464, UUID d47e16e0-1d15-4bb3-bbd0-6308f41e832e -> read ECONNRESET
+Factura DIAC-75464, UUID 621545f4-4286-47ab-a30e-96a9d14c37ee -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75466 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75467, UUID ecd7580e-41db-4f67-98ad-6adbc6594387 -> read ECONNRESET
+Factura DIAC-75468, UUID a1182b0a-d048-40d8-91af-aca9dcae7525 -> read ECONNRESET
+Factura DIAC-75469 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75502, UUID 989e1c76-e4f2-4826-b6c4-5e65b12cf3bf -> read ECONNRESET
+Factura DIAC-75544, UUID 022c62bd-0777-4430-b9b6-0b64394a9539 -> read ECONNRESET
+Factura DIAC-75555, UUID 4449f53b-f3e0-4328-b8cc-7d5d9ff21dbb -> read ECONNRESET
+Factura DIAC-75555, UUID 614b2344-6ba7-4f73-8c33-91b4f1a81c20 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75564, UUID c6f0e560-4a7c-422a-bb48-395a3464bb39 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75566, UUID 734b2cd9-2a76-4f8a-9f85-2531906e4a36 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75568, UUID 70c22a04-17b6-4c41-bf28-2cefe1b6672e -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75581 -> read ECONNRESET
+Factura DIAC-75594 -> read ECONNRESET
+Factura DIAC-75714 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75383 -> read ECONNRESET
+Factura DIAC-75399, UUID 3792f140-53a2-4543-afea-bfc1646e705d -> read ECONNRESET
+Factura DIAC-75403, UUID 15e908bb-d6df-4fb6-accf-d3e9340fbfc3 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75461, UUID a92e15f3-4577-4f4c-a8a4-2e9dcbda0daa -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75461, UUID 19f3b34e-343d-4bfc-a1e9-d73327d2d69a -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75462 -> read ECONNRESET
+Factura DIAC-75480, UUID 6f6090fa-3291-46a5-b4ff-258459e0f8b9 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75691, UUID 752706ac-7eb6-4424-bc3d-215eadaf450a -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> read ECONNRESET
+Factura DIAC-75440 -> read ECONNRESET
+Factura DIAC-75457, UUID d60d980e-74f2-4d2f-beb5-66bd59c4ee2d -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75475, UUID c8574726-0514-46e6-9b80-83b4c9cd1b30 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75633 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> Request failed with status code 500
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> Request failed with status code 500
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> Request failed with status code 500
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> Request failed with status code 500
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> Request failed with status code 500
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> Request failed with status code 500
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> Request failed with status code 500
+Factura DIAC-75696, UUID 9814a08c-9cca-42f3-bc05-618ea6fdbd7c -> Request failed with status code 500
+Factura DIAC-67110 -> Request failed with status code 499
+Factura DIAC-67110 -> Request failed with status code 499
+Factura DIAC-69083 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-69095 -> read ECONNRESET
+Factura DIAC-69418, UUID b4cd202c-1460-4a35-83ca-325d982df4d4 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-69441, UUID 0f554971-a2b5-4ecf-9c37-5ee01f776574 -> read ECONNRESET
+Factura DIAC-69441, UUID 8512b79d-2274-4226-90e8-75a2b738c8f9 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-69446, UUID d12d19eb-d046-4f14-a356-dbeaef4f90a9 -> read ECONNRESET
+Factura DIAC-69429 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-69439 -> read ECONNRESET
+Factura DIAC-69694 -> read ECONNRESET
+Factura DIAC-69786, UUID 66746d22-dbfd-408a-bf21-3f32e580b653 -> read ECONNRESET
+Factura DIAC-70619, UUID 025fb056-3183-4cb2-9f43-18e028c004f9 -> read ECONNRESET
+Factura DIAC-70596 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-70749 -> read ECONNRESET
+Factura DIAC-70758 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-71474 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-71488 -> read ECONNRESET
+Factura DIAC-71516, UUID 2811b477-72ac-4a21-a823-eaa436ef3567 -> read ECONNRESET
+Factura DIAC-71527, UUID a3566ec9-ddd9-4462-96be-e88ac153d7e5 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-71582 -> read ECONNRESET
+Factura DIAC-71583, UUID 291c3751-d6fa-4c4c-ae7a-c91778933ea3 -> read ECONNRESET
+Factura DIAC-71588 -> read ECONNRESET
+Factura DIAC-71595, UUID 043e2d2e-1424-4e17-9e5a-8214d3a35316 -> read ECONNRESET
+Factura DIAC-71599, UUID 2508b670-68c3-4e3f-82c8-645d83388294 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-71805, UUID e5b9e890-b134-446f-8491-526b2d47ad10 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-71805, UUID 2559bab9-186f-49b7-a5ee-4a006f1ad6d1 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-72447 -> read ECONNRESET
+Factura DIAC-72431 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-73323 -> read ECONNRESET
+Factura DIAC-75736, UUID 46dee512-ef86-4060-b2a1-73acc9035d9a -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-75739, UUID 38793883-e5a3-41bd-b37a-4a5560fdd307 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-68659 -> Request failed with status code 499
+Factura DIAC-68752 -> Request failed with status code 499
+Factura DIAC-69104 -> Request failed with status code 499
+Factura DIAC-69066 -> Request failed with status code 499
+Factura DIAC-69083 -> Request failed with status code 499
+Factura DIAC-69095 -> Request failed with status code 499
+Factura DIAC-69096 -> Request failed with status code 499
+Factura DIAC-69117 -> Request failed with status code 499
+Factura DIAC-69118 -> Request failed with status code 499
+Factura DIAC-69786, UUID e005a180-1061-40a5-952f-d162926bf13d -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-70381 -> read ECONNRESET
+Factura DIAC-68798 -> Request failed with status code 499
+Factura DIAC-70613, UUID 09149ff9-22d3-4548-82b3-04135d2fc7c0 -> read ECONNRESET
+Factura DIAC-71428 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-71475 -> read ECONNRESET
+Factura DIAC-71494 -> read ECONNRESET
+Factura DIAC-71527, UUID a3566ec9-ddd9-4462-96be-e88ac153d7e5 -> read ECONNRESET
+Factura DIAC-68985 -> Request failed with status code 504
+Factura DIAC-71598, UUID 2508b670-68c3-4e3f-82c8-645d83388294 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-71622 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-72419, UUID 7d39dca6-c466-4ffe-90b0-9c4b13dd2031 -> read ECONNRESET
+Factura DIAC-72464 -> read ECONNRESET
+Factura DIAC-72515, UUID d3c2daf3-8481-4797-ad72-842a57f46a19 -> read ECONNRESET
+Factura DIAC-72415, UUID 6bd9e44e-4530-4bef-a467-0f01948e60c6 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-69409 -> Request failed with status code 504
+Factura DIAC-72431, UUID 898c7642-7853-4657-8e43-03fcb88c0c3b -> read ECONNRESET
+Factura DIAC-73373 -> read ECONNRESET
+Factura DIAC-73253 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-73323 -> read ECONNRESET
+Factura DIAC-75912 -> read ECONNRESET
+Factura DIAC-75925 -> read ECONNRESET
+Factura DIAC-69385 -> Request failed with status code 499
+Factura DIAC-75928, UUID 102c149d-a60a-4e31-9662-27da6578224d -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-73631, UUID 6e4beb3d-846a-48b6-aa28-5207f2ca5b1a -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-73854 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-73772 -> read ECONNRESET
+Factura DIAC-73878 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-73843 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-73869 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-74067, UUID 8b215f5c-c2c5-4018-af62-ccc871adf96e -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-74180 -> read ECONNRESET
+Factura DIAC-74186 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-74189 -> read ECONNRESET
+Factura DIAC-74192 -> read ECONNRESET
+Factura DIAC-74197 -> read ECONNRESET
+Factura DIAC-74213 -> read ECONNRESET
+Factura DIAC-74144, UUID d8331669-d32c-49e5-8a53-ef9e572da3e5 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-74146 -> read ECONNRESET
+Factura DIAC-74161 -> read ECONNRESET
+Factura DIAC-74177 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82030 -> Request failed with status code 504
+Factura DIAC-73920, UUID 34d50e78-c488-4dec-92b8-e4d61b006812 -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\34d50e78-c488-4dec-92b8-e4d61b006812.pdf'
+Factura DIAC-73893, UUID df955427-33c3-48dc-b02a-6e02f56ecfe4 -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\df955427-33c3-48dc-b02a-6e02f56ecfe4.pdf'
+Factura DIAC-73768, UUID 3d835a4c-3479-41ec-bbc8-27857a1640eb -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\3d835a4c-3479-41ec-bbc8-27857a1640eb.pdf'
+Factura DIAC-73782, UUID 496fb9d8-33f0-436f-9bba-7300364c7680 -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\496fb9d8-33f0-436f-9bba-7300364c7680.pdf'
+Factura DIAC-73849, UUID 5b6a8bab-2986-4a82-9ba7-367882468386 -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\5b6a8bab-2986-4a82-9ba7-367882468386.pdf'
+Factura DIAC-73856, UUID 5c42d648-9f8b-43b0-b3d1-89c49d5f39fb -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\5c42d648-9f8b-43b0-b3d1-89c49d5f39fb.pdf'
+Factura DIAC-74283, UUID 5a6346b6-5a62-4963-8ce6-03ad75dfc59c -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\5a6346b6-5a62-4963-8ce6-03ad75dfc59c.pdf'
+Factura DIAC-74285, UUID 36de532e-a9d4-44e7-bca5-54c368b18f8e -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\36de532e-a9d4-44e7-bca5-54c368b18f8e.pdf'
+Factura DIAC-74490, UUID 5cc8e242-2212-486b-b2af-710eecc2fc9e -> ENOENT: no such file or directory, unlink 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\5cc8e242-2212-486b-b2af-710eecc2fc9e.pdf'
+Factura DIAC-74244, UUID c0ff7ab4-6dbb-49e9-b017-4ffd21a9c3d8 -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\c0ff7ab4-6dbb-49e9-b017-4ffd21a9c3d8.pdf'
+Factura DIAC-74144, UUID d8331669-d32c-49e5-8a53-ef9e572da3e5 -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\d8331669-d32c-49e5-8a53-ef9e572da3e5.pdf'
+Factura DIAC-74142, UUID e20ea090-6617-462d-88fe-8850e1c86ccc -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\e20ea090-6617-462d-88fe-8850e1c86ccc.pdf'
+Factura DIAC-74156, UUID e93dc2c7-e3b7-4c07-abd5-fe2fc125fc1d -> ENOENT: no such file or directory, open 'C:\Users\Usuario\Desktop\Zentria_Labs\uploads\e93dc2c7-e3b7-4c07-abd5-fe2fc125fc1d.pdf'
+Factura DIAC-83441 -> Request failed with status code 504
+Factura DIAC-83441 -> Request failed with status code 499
+Factura DIAC-83441 -> Request failed with status code 499
+Factura DIAC-83751 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83899, UUID ecc24a64-2a79-4738-a2c6-3715c0f4e0e0 -> read ECONNRESET
+Factura DIAC-81464, UUID cbf292f5-095c-473f-9eb4-1f613d45b3c9 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81465, UUID c852e535-90ab-4175-9240-7da181aeaf32 -> read ECONNRESET
+Factura DIAC-81815, UUID 375066e5-57cc-40ae-9aff-3a3d90b75f8b -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81815, UUID 152d1a02-fff1-427d-adfa-a2204e45da7d -> read ECONNRESET
+Factura DIAC-81818, UUID 88131aac-db32-4a80-980c-891f04fd9ffe -> read ECONNRESET
+Factura DIAC-81820 -> read ECONNRESET
+Factura DIAC-81824, UUID bc60b4b4-15c5-40a4-94b1-a3072672e255 -> read ECONNRESET
+Factura DIAC-81831, UUID 2757ee96-96ff-4b5d-9eb7-979467c6b13a -> read ECONNRESET
+Factura DIAC-81862 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81869, UUID d9be0879-5b55-4678-8d35-7932a08ce589 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81875 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81887 -> read ECONNRESET
+Factura DIAC-81897, UUID 286b5d08-4ab2-4d0e-8fd3-008bc784688a -> read ECONNRESET
+Factura DIAC-81905 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81923, UUID 5389f2f7-4d61-48a3-8f10-464ab5993ff4 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81557 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81661 -> read ECONNRESET
+Factura DIAC-81728 -> read ECONNRESET
+Factura DIAC-81735 -> read ECONNRESET
+Factura DIAC-81815, UUID 375066e5-57cc-40ae-9aff-3a3d90b75f8b -> read ECONNRESET
+Factura DIAC-81820 -> read ECONNRESET
+Factura DIAC-81869 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81896, UUID 3b365127-8fb7-40c7-a6b2-5bc9576d71a0 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81920 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81923, UUID 5389f2f7-4d61-48a3-8f10-464ab5993ff4 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-81926 -> read ECONNRESET
+Factura DIAC-81579, UUID 94ce971d-85fc-45ea-94db-470a7ad1b798 -> read ECONNRESET
+Factura DIAC-81585 -> read ECONNRESET
+Factura DIAC-81669 -> read ECONNRESET
+Factura DIAC-84020 -> read ECONNRESET
+Factura DIAC-83954 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83961 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84001 -> read ECONNRESET
+Factura DIAC-81987, UUID aef0ea68-d3de-4373-bf5f-87c206828db4 -> read ECONNRESET
+Factura DIAC-82009 -> read ECONNRESET
+Factura DIAC-82010, UUID db9a52b5-d259-4b20-a811-945891530935 -> read ECONNRESET
+Factura DIAC-82012, UUID 9e631be4-0e1f-4e52-9e66-f7dd5e3df3e8 -> read ECONNRESET
+Factura DIAC-82014, UUID e1cc0f62-b4cb-4a61-9264-3ede099e2f01 -> read ECONNRESET
+Factura DIAC-82053, UUID e1cc0f62-b4cb-4a61-9264-3ede099e2f01 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82032 -> read ECONNRESET
+Factura DIAC-82093 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82113, UUID b154426c-fcc5-4b2e-a186-8b3cdc97a230 -> read ECONNRESET
+Factura DIAC-82133, UUID d087227f-7769-46c6-bf73-ff5dfaca6261 -> read ECONNRESET
+Factura DIAC-82162, UUID 66c34fb9-7f6f-4b6c-a9a9-ac9b5189c1c4 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82162, UUID 8e70ef3d-9fa7-4067-b9f0-9f1714a9a8f1 -> read ECONNRESET
+Factura DIAC-82167 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82179 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82328, UUID 635e88e1-9546-4562-a076-950084132a8a -> read ECONNRESET
+Factura DIAC-82343 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82402 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82209, UUID 26bc7ab7-c472-4e4c-aaca-85a1aef905e5 -> read ECONNRESET
+Factura DIAC-82359 -> read ECONNRESET
+Factura DIAC-84139 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84094 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84133, UUID b74b3965-04c3-4c11-84aa-c982d97d62b6 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84137 -> read ECONNRESET
+Factura DIAC-82508, UUID add21b5b-7698-4d70-82f2-1120e7642b08 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82508, UUID d5a399ff-5343-4a07-a2b1-9cef09f3487b -> read ECONNRESET
+Factura DIAC-82508, UUID f3823ee9-32d3-4554-a518-8bdfe02231a8 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82508, UUID a3b7d374-2ad7-4238-a961-d2a4e0bf8982 -> read ECONNRESET
+Factura DIAC-82508, UUID c4df70c7-3cac-421f-8a71-a17855e34e44 -> read ECONNRESET
+Factura DIAC-82508, UUID b37264d1-4a25-46ab-97a8-4ca16f651ee1 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82508, UUID a0315a79-5864-41d0-82bd-052023bfdd56 -> read ECONNRESET
+Factura DIAC-82556, UUID bca97333-04ea-440b-a9b4-facfe6f357a3 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82563 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82568 -> read ECONNRESET
+Factura DIAC-82574, UUID 73c91c2a-6274-4a39-b53d-9574a6aaef12 -> read ECONNRESET
+Factura DIAC-82576 -> read ECONNRESET
+Factura DIAC-82594, UUID d684fbf0-2fb0-4d84-bb95-4ffffe3df667 -> read ECONNRESET
+Factura DIAC-82737, UUID 31ee2964-421c-4696-b81c-0f66dae1c874 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82745 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82749 -> read ECONNRESET
+Factura DIAC-82896 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82898 -> read ECONNRESET
+Factura DIAC-82508 -> Request failed with status code 499
+Factura DIAC-83002, UUID af818949-f9a3-4118-9177-9d2161680d0c -> read ECONNRESET
+Factura DIAC-83005, UUID f97863b4-aa59-4b1c-9bba-7957dfc462fb -> read ECONNRESET
+Factura DIAC-83006, UUID 14928898-191b-40f6-a957-3d6326c75117 -> read ECONNRESET
+Factura DIAC-83013 -> read ECONNRESET
+Factura DIAC-83050 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83051 -> read ECONNRESET
+Factura DIAC-83052 -> read ECONNRESET
+Factura DIAC-84278, UUID 6b14d8de-1d14-407a-baed-b1fd92166184 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84281 -> read ECONNRESET
+Factura DIAC-84329 -> read ECONNRESET
+Factura DIAC-84374 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84375 -> read ECONNRESET
+Factura DIAC-84404 -> read ECONNRESET
+Factura DIAC-84407 -> read ECONNRESET
+Factura DIAC-84424 -> read ECONNRESET
+Factura DIAC-82980 -> read ECONNRESET
+Factura DIAC-82984 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-82985 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-82989 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-82993 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-82998 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83001 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83002 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83004 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83005 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83006 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83013 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83017 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83020 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83022 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83026 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83037 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83045 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83047 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83048 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83049 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83050 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83051 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83052 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83053 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83054 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83055 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83056 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83059 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83060 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84190 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84225 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84230 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84245 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84246 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84276 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84277 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84278 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84281 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84299 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84303 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84321 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84329 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84344 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84355 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84367 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84374 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84375 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84404 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84405 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84407 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84408 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84415 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84417 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84420 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84424 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83004 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-82984, UUID 980db65e-3c7e-4e59-90c6-04339cd74fbc -> read ECONNRESET
+Factura DIAC-84504 -> read ECONNRESET
+Factura DIAC-84230, UUID 5996b29e-f3a1-467e-952d-1739548640b9 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84278 -> read ECONNRESET
+Factura DIAC-84405 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84407 -> read ECONNRESET
+Factura DIAC-84245 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84246 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84504 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84550 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84567 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84569, UUID 34992fa9-9fba-402a-9f02-2842fd1a38ad -> read ECONNRESET
+Factura DIAC-84462 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83258 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83263 -> read ECONNRESET
+Factura DIAC-83587 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83556, UUID 0d5f53e1-06a7-4807-b8a6-182afc0f7e30 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83322 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83325 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83346 -> read ECONNRESET
+Factura DIAC-83436, UUID 030ec830-1823-45b2-b02a-55af962ac4f3 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83436, UUID f76016c2-4222-4e4a-878b-2c6ee8b37210 -> read ECONNRESET
+Factura DIAC-84157, UUID cb0b2e4d-1a0e-4451-8eb4-75c7a44c3bf3 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84682, UUID db6c503b-a7d4-4bf9-bd5a-6e2bf882e54f -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84715, UUID 43fb9cdd-2e0f-44f9-95b1-f2c5284b4431 -> read ECONNRESET
+Factura DIAC-84743 -> read ECONNRESET
+Factura DIAC-84610, UUID 856b2a27-4d98-4c50-a547-ba91bfac3e82 -> read ECONNRESET
+Factura DIAC-84751, UUID 5dd97834-4c55-4fb4-a544-ad1ec4757df1 -> read ECONNRESET
+Factura DIAC-84756, UUID 0adaa692-1689-4bce-9a04-f31ceeb394af -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84791 -> read ECONNRESET
+Factura DIAC-84656 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84663, UUID cb05ff0a-e757-4401-b609-b22c33648cb8 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84667, UUID 54f8cf31-47b0-4de1-a28b-553df9fa22b5 -> read ECONNRESET
+Factura DIAC-83355 -> Request failed with status code 504
+Factura DIAC-83487 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83469 -> read ECONNRESET
+Factura DIAC-83429, UUID 004cd96d-9708-47fc-869f-38f0e22f30ed -> read ECONNRESET
+Factura DIAC-83429, UUID d10f9db8-7463-4fd3-8be6-bafba6f17beb -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83436, UUID 5034c5c4-4d2b-4663-b86a-38384c993571 -> read ECONNRESET
+Factura DIAC-83436, UUID 030ec830-1823-45b2-b02a-55af962ac4f3 -> read ECONNRESET
+Factura DIAC-83432 -> read ECONNRESET
+Factura DIAC-84791 -> read ECONNRESET
+Factura DIAC-84772, UUID 7c01e8ec-ac75-47eb-b703-bb2d14e209a9 -> read ECONNRESET
+Factura DIAC-84623 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84628 -> read ECONNRESET
+Factura DIAC-84631, UUID 81e2ffd3-874c-433f-875d-1f11ad464738 -> read ECONNRESET
+Factura DIAC-84635 -> read ECONNRESET
+Factura DIAC-84644, UUID ed4aae16-cad5-4982-82dc-d17d13e9d8a9 -> read ECONNRESET
+Factura DIAC-84702 -> read ECONNRESET
+Factura DIAC-84708 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84774, UUID 52fdb899-4a04-43a0-a167-3a5f273a9611 -> read ECONNRESET
+Factura DIAC-84712 -> read ECONNRESET
+Factura DIAC-84773, UUID 8c9b2426-bc6e-40b6-9b5f-c3ad55c9410f -> read ECONNRESET
+Factura DIAC-84610 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84658, UUID cb843eaf-7e47-4905-855a-7ca9eb1d8cca -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84663 -> read ECONNRESET
+Factura DIAC-84664 -> read ECONNRESET
+Factura DIAC-84667 -> read ECONNRESET
+Factura DIAC-84715 -> read ECONNRESET
+Factura DIAC-84742 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83482 -> read ECONNRESET
+Factura DIAC-84609 -> Request failed with status code 504
+Factura DIAC-84656 -> read ECONNRESET
+Factura DIAC-84658 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84663 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84664 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84667 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-83432 -> read ECONNRESET
+Factura DIAC-84157 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84767 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84791 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84772 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84612 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84623 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84628 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84631 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84635 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84641 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84644 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84695 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84697 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84699 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84702 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84708 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84774 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84710 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84712 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84770 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84771 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84773 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84779 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84610 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84609 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84611 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84613 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84654 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84656 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84658 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84663 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84664 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84667 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84668 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84682 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84715 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84720 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84730 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84742 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84743 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84751 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84753 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84756 -> getaddrinfo ENOTFOUND api-descarga-zentria-e3hxhjb7h9gge3f4.eastus-01.azurewebsites.net
+Factura DIAC-84623 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84628 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84631, UUID a565bee6-4c73-408d-bca5-a60747665651 -> read ECONNRESET
+Factura DIAC-84635, UUID 0fff4624-82f0-45f6-8eb8-f2dfabd4bb5d -> read ECONNRESET
+Factura DIAC-84708, UUID caac71ca-3f1a-44c4-9a2a-dc6954285bd4 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84710 -> Request failed with status code 504
+Factura DIAC-84712 -> Request failed with status code 504
+Factura DIAC-84770 -> Request failed with status code 504
+Factura DIAC-83622 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83624 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83627, UUID 81fe12dc-28f6-4472-8dec-e40ae0d89bfa -> read ECONNRESET
+Factura DIAC-83628 -> read ECONNRESET
+Factura DIAC-83629 -> read ECONNRESET
+Factura DIAC-83633, UUID 4265c290-ede0-4cf5-8c70-769c57f483b2 -> read ECONNRESET
+Factura DIAC-83635 -> read ECONNRESET
+Factura DIAC-83667 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83758 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83839 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83988 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83991 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83987, UUID fd45fa7c-1155-4a3e-aae0-331941593edf -> read ECONNRESET
+Factura DIAC-84901 -> read ECONNRESET
+Factura DIAC-84933 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84942 -> read ECONNRESET
+Factura DIAC-84943 -> read ECONNRESET
+Factura DIAC-84961 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-84977 -> read ECONNRESET
+Factura DIAC-84878 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-83706 -> Request failed with status code 499
+Factura DIAC-85101, UUID b9638121-5184-40a8-adfc-176124273d39 -> read ECONNRESET
+Factura DIAC-85107 -> read ECONNRESET
+Factura DIAC-85115 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-85120 -> read ECONNRESET
+Factura DIAC-85154 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-85155 -> connect ETIMEDOUT 159.223.203.166:443
+Factura DIAC-85159 -> read ECONNRESET

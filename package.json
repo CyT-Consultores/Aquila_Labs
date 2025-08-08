@@ -1,0 +1,24 @@
+{
+  "name": "zentria-labs-automation",
+  "version": "1.0.0",
+  "description": "Automatización para descarga y subida de documentos Zentria Labs",
+  "main": "app.js",
+  "scripts": {
+    "cache": "node utils/cacheFacturas.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/storage-file-share": "^12.27.0",
+    "axios": "^1.10.0",
+    "axios-cookiejar-support": "^6.0.3",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "fs-extra": "^11.2.0",
+    "node-cron": "^3.0.3",
+    "tough-cookie": "^5.1.2"
+  }
+}

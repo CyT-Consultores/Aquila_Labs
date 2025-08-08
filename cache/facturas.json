@@ -1,0 +1,18 @@
+[
+  {
+    "id_pdf": 230659,
+    "sigla_sede": "DIAC",
+    "sigla_eps": "FAMISANAR",
+    "codigo_contrato": "S13103103699",
+    "numero_factura": "DIAC-83949",
+    "no_atencion": "100152",
+    "fecha_factura": "2025-08-02",
+    "valor_factura": 119120,
+    "fecha_ingreso": "2025-07-30",
+    "fecha_egreso": "2025-08-02",
+    "ambito": "Apoyo Diagnostico",
+    "tipo_identificacion": "CC",
+    "identificacion": "1002523739",
+    "dias_factura": 6
+  }
+]
